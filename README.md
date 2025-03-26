@@ -20,7 +20,7 @@ Modules
 
 4. tb_task_scheduler.v
    - Testbench that simulates inputs to the scheduler and verifies output correctness - uses a reference model of queue type.
-   - 
+
 Simulation Screenshot
 ---------------------
 
